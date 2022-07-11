@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.8.7/docs/data/material/components/dialogs/FormDialog.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "name": "FormDialog demo — Material UI"
+}
